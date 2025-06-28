@@ -76,7 +76,7 @@ Made as part of a learning project using full-stack web technologies and XAMPP.
 
 If you're interested in my work or have feedback, feel free to connect with me:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](#)
+- GitHub: https://github.com/ShallyKaushik
+- LinkedIn: https://www.linkedin.com/in/shelly-kaushik-a7412a324/
 
 
