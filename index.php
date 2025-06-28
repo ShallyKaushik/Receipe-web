@@ -40,7 +40,7 @@
       <header class="hero" style=" background: url('Assets/kd1.jpg') center/cover no-repeat;" >
         <div class="hero-container">
           <div class="hero-text">
-            <h1>Prince Ka Dhaba</h1>
+            <h1>Kitchen Diary</h1>
             <h4>no fluff, just recipes</h4>
           </div>
         </div>
